@@ -1,0 +1,13 @@
+font:
+Outfit Regular
+
+
+
+color:
+blackish blue #000816
+white
+blue #003BA4
+light blue #809DD1
+grey: #19202D
+sticker: 
+bright blue: #F0F5FF
